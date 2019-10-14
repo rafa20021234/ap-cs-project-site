@@ -23,6 +23,33 @@ header nav ul Li{
     display: inLIne;
 }
 
+#aboutme {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 600px;
+}
+
+.personalinfo {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(0, 174, 255)
+}
+
+.personalinfo img {
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.personalinfo h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.personalinfo h2 {
+    font-size: 1.25em;
+}
+
 #projects {
     margin: 0 auto;
     width: 90%;
@@ -44,6 +71,10 @@ header nav ul Li{
 .project h1 {
     font-size: 1.5em;
     margin-bottom: 10px;
+}
+
+.project h2 {
+    font-size: 1.25em;
 }
 
 .clear {
